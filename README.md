@@ -11,4 +11,5 @@ How to Reach me: nalinkaushik4184@gmail.com
   
     
       
-![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalinKaushik07&show_icons=true&theme=radical)
+![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalinKaushik07&show_icons=true&theme=radical)  
+![headergitdark](https://user-images.githubusercontent.com/124071628/215901562-db27bb8c-211b-48ec-b30f-decba948501c.gif)
