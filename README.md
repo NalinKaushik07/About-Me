@@ -1,4 +1,4 @@
-# Hi, Welcome
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=30&pause=1000&color=73C8F7&background=FFFFFFEE&center=true&width=435&lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 # My Name is Nalin Kaushik 
 
 Currently Studying in Chandigarh University.  
