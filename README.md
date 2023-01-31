@@ -10,7 +10,8 @@ I am a Fullstack Devloper.
 I am currently learning MYSQL.  
 How to Reach me: nalinkaushik4184@gmail.com  
   
-    
+     
+       
       
 ![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalinKaushik07&show_icons=true&theme=radical)  
 
