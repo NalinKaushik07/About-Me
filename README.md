@@ -1,4 +1,4 @@
-# Hi  
+  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=25&pause=1000&color=73C8F7&background=FFFFFFEE&center=true&width=435&lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 # My Name is Nalin Kaushik 
 
@@ -11,4 +11,4 @@ How to Reach me: nalinkaushik4184@gmail.com
   
     
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
