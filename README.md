@@ -2,7 +2,7 @@
 # My Name is Nalin Kaushik 
 
 Currently Studying in Chandigarh University.  
-Hobby:I like coding.
-I am a Fullstack Devloper.
-I am currently learning MYSQL.
+Hobby:I like coding.  
+I am a Fullstack Devloper.  
+I am currently learning MYSQL.  
 How to Reach me:
